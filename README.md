@@ -3,7 +3,8 @@
 <h3 align="center">About</h3>
 <hr>
 An old project from FVTC (2019). A very basic HTML/CSS website for real estate.
-Responsiveness needs to be added to it.
+
+Note: The methods used for this site are a bit outdated. Things like responsiveness and animation needs to be added to it.
 
 <h3 align="center">Screenshots</h3>
 <hr>
