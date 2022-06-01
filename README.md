@@ -1,4 +1,4 @@
-# HTML_CSS_Real_Estate_Website
+# HTML & CSS Real Estate Website
 
 <h1>About</h1>
 An old project from FVTC (2019). A very basic HTML/CSS website for real estate.
