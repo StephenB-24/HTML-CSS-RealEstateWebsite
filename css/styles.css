@@ -1,0 +1,72 @@
+@charset "utf-8";
+/*
+    Author: Stephen Behnke  
+    Date: 3/25/2019
+    Description: Midterm Website
+    HTML: Real Estate Website
+*/
+#wrapper {
+    width: 1000px;
+    margin-left: 100px;
+    font: arial;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkblue;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/* Change the link color on hover */
+li a:hover {
+  background-color: #00004b;
+}
+#main {
+    background-color: darkblue;
+}
+hr {
+    height: 5px;
+    color: #ff0000;
+    background-color: darkblue;
+}
+#logo {
+  position: absolute;
+  top: 50px;
+  left: 150px;
+}
+.heading {
+    text-align: center;
+}
+.piclistright {   
+    margin: 15px 15px 120px 15px;
+    position: sticky;
+    left: 900px;
+}
+.piclistright2 {   
+    margin: 15px 15px 75px 15px;
+    position: sticky;
+    left: 900px;
+}
+.textleft {
+    float: left;
+    max-width: 700px;
+}
+.sectionright {
+    float: right;    
+    margin: 15px 15px 15px 15px;
+}
+.sectionleft {
+    float: left;    
+    margin: 15px 15px 15px 15px;
+}
