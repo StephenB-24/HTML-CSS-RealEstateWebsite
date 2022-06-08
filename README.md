@@ -6,7 +6,7 @@
   
  A very basic HTML/CSS website for real estate.</strong>
 
-<em>Note: The methods used for this site are a bit outdated. Things like responsiveness and animation needs to be added.</em>
+<em>Note: The methods used for this site are a bit outdated. Things like responsiveness and animation need to be added.</em>
 
 <h3 align="center">Screenshots</h3>
 <hr>
